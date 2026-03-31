@@ -1,0 +1,7 @@
+venv/
+venv_old_20260312/
+__pycache__/
+*.txt
+inputs/
+outputs/
+data/
